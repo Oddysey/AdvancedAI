@@ -1,2 +1,2 @@
 # AdvancedAI
-Super Advanced AI
+Super Advanced AI that can predict anything about you
